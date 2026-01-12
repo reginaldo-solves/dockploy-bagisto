@@ -1,6 +1,6 @@
 # Adcionando Usuario ao grupo (permições no Docker)
 ``` bash
-sudo usermod -aG docker builds
+sudo usermod -aG docker #USER
 ```
 
 # Construindo e executando o arquivo docker-compose
